@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behmingjun, a computer science undergraduate in Singapore!
+- 👋 Hi, I’m @behmingjun, a Nanyang Technological University computer science undergraduate in Singapore!
 - Languages: Python, C, Java, Arduino
 - 🌱 I’m still learning but...
 - 💞️ I’m looking to collaborate on any projects!
